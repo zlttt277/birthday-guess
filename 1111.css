@@ -1,0 +1,25 @@
+body
+{
+    background-color: rgb(142, 192, 235);
+    text-align: center;
+}
+
+#myBtn
+{
+    background-color: rgb(229, 189, 203);
+    color: black;
+    border: 2px solid #bf9cdc;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+
+#guessInput
+{
+    background-color: #90ABD8;
+    color: black;
+    border: 2px solid #5B73B7;
+    border-radius: 10px;
+    font-size: 10px;
+    padding: 10px 10px;
+}
